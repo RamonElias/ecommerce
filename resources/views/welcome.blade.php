@@ -86,8 +86,8 @@
 
                 <div class="links">
                     <a href="/home">ECommerce</a>
-                    <p> - First Test User E-Mail Address : qwerty@gmail.com </p>
-                    <p> - First Test User Password : secretpassw </p>
+                    <p> - Test User E-Mail : <b>qwerty@gmail.com</b> </p>
+                    <p> - Test User Password : <b>secretpassw</b> </p>
                 </div>
             </div>
         </div>

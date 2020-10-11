@@ -64,6 +64,15 @@
                                 @endif
                             </div>
                         </div>
+
+                        <hr>
+
+                        <div class="form-group row">
+                            <div class="col-md-6 offset-md-4">
+                                <p> - Test User E-Mail : <b>qwerty@gmail.com</b> </p>
+                                <p> - Test User Password : <b>secretpassw</b> </p>
+                            </div>
+                        </div>
                     </form>
                 </div>
             </div>

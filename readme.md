@@ -1,3 +1,9 @@
+http://157.245.245.176:12369/
+
+https://github.com/RamonElias/ecommerce/
+
+https://drive.google.com/file/d/1waQzVt14CtfLkWk3qAxNDeqIXli5aI__/view?usp=sharing
+
 
 ## Run this project
 
